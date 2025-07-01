@@ -8,7 +8,7 @@ This project provides a simple yet effective method to obfuscate and protect Lua
 Bu proje, Lua kodlarını gizlemek ve korumak için XOR şifreleme ve Base64 kodlamayı birleştiren basit ama etkili bir yöntem sunar. Sistem iki ana bileşenden oluşur:
 
 - A **Python script** to encrypt raw Lua source code.  
-  **Python betiği**, Lua kaynak kodunu şifreler.
+  **Python betiği**, Lua kaynak kodunu şifreler
 - A **Lua script** to decrypt and execute the encrypted code at runtime.  
   **Lua betiği**, şifreli kodu çözümleyip çalıştırır.
 
