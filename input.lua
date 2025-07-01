@@ -1,0 +1,1 @@
+outputChatBox("Merhaba, şifrelenmiş Lua kodu çalışıyor!")
